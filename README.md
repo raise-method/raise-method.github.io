@@ -13,3 +13,5 @@ Later extensions to the language and a new tool set, rsltc, were developed durin
 [RAISE Virtual Library](https://web.archive.org/web/20050829213910/http://www.iist.unu.edu/raise/)
 
 [Tools for RAISE](https://github.com/raisetools?tab=repositories)
+
+[Tools for RAISE](https://github.com/raisetools/rsltc)
